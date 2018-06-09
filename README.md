@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \inquid\gas\AutoloadExample::widget(); ?>```
+<?= \inquid\gas\GasNoelWidget::widget(); ?>```
